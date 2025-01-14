@@ -1,4 +1,4 @@
-![FishM](.\FishM.png)
+![FishM](FishM.png)
 
 # FishM 浏览器
 
